@@ -1,7 +1,8 @@
 {
- "version": "2026.11.10.0947",
+ "version": "2026.11.10.1552",
  "url": "https://github.com/V4MPP1R3/saybox-releases/releases/latest/download/Saybox-Setup.exe",
- "sha256": "5debafbc15b7534a7d8316a0209c1a26cc1f4b220b5f69e60717e64f5e4cc7d4",
- "size": 91769846,
- "sig": "kr_w5Wi1sRezLle20xH4EiAQEXzPZ0jYZ6fnQfXIVTgeUnvzAh6mmHKSwRgNsHaIa9R6jGAKEdnGfAHr7lq2Dw"
+ "sha256": "7f2e70174d27d8a8bc47a6a8b70e5a365537687e0c6d5e4a04df496223567b46",
+ "size": 76518143,
+ "notes": "New SteamVR dashboard panel (status, chatbox, Pause/Undo/Clear/Stop). Close to tray option (Mic & speech). Smaller download. Mic gate recovers after a noisy start, fewer ghost words from breaths. \"Stop\" now pauses the music. A misheard AI name still works before a command. Warns if your mic sends only silence. Settings tidied, and it says CPU.",
+ "sig": "WaGHU1TsQ9TMMaSDnVX7t5Jy8CFcP5WaBglPEa06fcUMvY8wgaXpnKkM415BNwuQCK0bitvU7ghoTW6M67KiAw"
 }
