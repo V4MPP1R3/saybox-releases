@@ -1,8 +1,7 @@
 {
- "version": "2026.11.09.0656",
+ "version": "2026.11.10.0947",
  "url": "https://github.com/V4MPP1R3/saybox-releases/releases/latest/download/Saybox-Setup.exe",
- "sha256": "e6771588a58af30627e694a0e25b323c20d69c3d3e962d86a9d9c6335c05044f",
- "size": 91637994,
- "notes": "SteamVR Startup,What's New,Pushed to github(updates within app),Updated Keys",
- "sig": "YwY4WRhF6ePu9951Ra_D69tY0jDFd9ylYpRG3TL8-K16IJe0B2E0YBTBh-7ddDnvRpjMzckneB0DFxsNxPcoDA"
+ "sha256": "5debafbc15b7534a7d8316a0209c1a26cc1f4b220b5f69e60717e64f5e4cc7d4",
+ "size": 91769846,
+ "sig": "kr_w5Wi1sRezLle20xH4EiAQEXzPZ0jYZ6fnQfXIVTgeUnvzAh6mmHKSwRgNsHaIa9R6jGAKEdnGfAHr7lq2Dw"
 }
