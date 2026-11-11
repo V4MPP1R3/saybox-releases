@@ -1,8 +1,8 @@
 {
- "version": "2026.11.10.1901",
+ "version": "2026.11.10.2119",
  "url": "https://github.com/V4MPP1R3/saybox-releases/releases/latest/download/Saybox-Setup.exe",
- "sha256": "94e6bccdefa29d71d5b48b99b9d9cc92e5066a8203f5509bd5c8f48eafd97e23",
- "size": 76696246,
- "notes": "- Tools > Version > Check for updates looks on GitHub right away, so a friend doesn't have to close Saybox and open it...\n- What's new: a release's date is shown as the day on this PC\n- Tools > Version > What's new now has the last few versions' notes below this one's\n- \"play <song> from my <playlist>\" starts that playlist of yours\n- Better Spotify commands\n- A Home note can be clicked away",
- "sig": "j_O7Y5GXtINb0ctz9f2eEciMgtUbRF03uj5aHI763amZJCol0zpCeNHuu2hY50PzX4oetaf3cpqyUPuYGHGuBg"
+ "sha256": "4fa7ccffc329c8ccf793936af82036f50f48162d2b84ddb35c9879fd959910fb",
+ "size": 76794152,
+ "notes": "- The last fix still left ~5 s\n- Still a ~5 s gap\n- 'play music out loud' left a silent gap, because Spotify was switched into Voicemeeter before its audio engine was...\n- (1) Banana x64 is opened first when several Voicemeeter editions are installed\n- A Voicemeeter that Saybox opened closes again\n- If Voicemeeter is installed but closed, Saybox opens it",
+ "sig": "TnNEpoqMSgBa8NZ4rzUbukX18bhTrJ_WUex5tkBMK66Cv_TAWJsU0ey9isI4WIj6A16VxvtHKmMasYHtQbYDAA"
 }
