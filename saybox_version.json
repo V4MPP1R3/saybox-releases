@@ -1,8 +1,8 @@
 {
- "version": "2026.11.11.1129",
+ "version": "2026.11.11.1533",
  "url": "https://github.com/V4MPP1R3/saybox-releases/releases/latest/download/Saybox-Setup.exe",
- "sha256": "f202e41c014621d1103cb4c6898243e471c34220cbb30489873c56e6c70e3c9c",
- "size": 77155064,
- "notes": "- Saying a chatbox style (\"Ruby, pirate mode\") now keeps it next time too\n- Fewer made-up \"Mm-hmm\"s from Parakeet\n- No more doubled (laughing) tags\n- AI answers start showing sooner: the first sentence goes up while the rest is written\n- Clearer warning when two Saybox windows are open at once\n- Saybox now checks its own files when it starts, and says so if any were changed or damaged",
- "sig": "dFPxG1g2ilu926IA8yh4Wlx9bSjhTrVXVOaFf6jF-spvYG5X6tcdPnyn-LJR1HUjIGh2Xb1XN2_Dhx9HLNJpCA"
+ "sha256": "a88ab0b4c2016c6852a4add592cc1a6e93f5abe8c33592218dd066b1696d75df",
+ "size": 77166281,
+ "notes": "- Saying 'play Spotify' opens Spotify if it's closed\n- Speech cleanup no longer leaves a stray comma where you said um or uh\n- Long nonstop talking is split between words, not in the middle of one\n- Music commands: you can spell a name out letter by letter ('play R I D D I M')",
+ "sig": "ZIzLVFKLTK36RMoF_FTcKIDPlZ7KWuBr3-CBFEbdhHFvvVv-E_cICUDXPuAZRuGb2UrTk4CsPT4h-N_lhD4XBg"
 }
