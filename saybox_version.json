@@ -1,8 +1,8 @@
 {
- "version": "2026.11.10.2119",
+ "version": "2026.11.11.0903",
  "url": "https://github.com/V4MPP1R3/saybox-releases/releases/latest/download/Saybox-Setup.exe",
- "sha256": "4fa7ccffc329c8ccf793936af82036f50f48162d2b84ddb35c9879fd959910fb",
- "size": 76794152,
- "notes": "- The last fix still left ~5 s\n- Still a ~5 s gap\n- 'play music out loud' left a silent gap, because Spotify was switched into Voicemeeter before its audio engine was...\n- (1) Banana x64 is opened first when several Voicemeeter editions are installed\n- A Voicemeeter that Saybox opened closes again\n- If Voicemeeter is installed but closed, Saybox opens it",
- "sig": "TnNEpoqMSgBa8NZ4rzUbukX18bhTrJ_WUex5tkBMK66Cv_TAWJsU0ey9isI4WIj6A16VxvtHKmMasYHtQbYDAA"
+ "sha256": "84c5f9a24017610e919d2db5e3ff8904b8691c8c87139b900912b45fe49f70b7",
+ "size": 77082997,
+ "notes": "- Saybox opened with Chatbox style already on Pirate\n- The chatbox kept turning to Pirate mode\n- Shorter, and like the rest of the window\n- The Voicemeeter setups looked confusing\n- Closing the Voicemeeter Saybox opened\n- General > Voicemeeter > Set up for VRChat\n- Switch VRChat's mic to Voicemeeter when Voicemeeter needs it\n- Owner's requests\n- The music ducked on sounds, not voices",
+ "sig": "ThXo9epVCSZplZYSnB7MQ0aFHaWIDFcjtbTxl_3fTwfEgFfTZGQ-8-jbWifR9pny87YGNmYBa8zbuKOYT4NOBw"
 }
