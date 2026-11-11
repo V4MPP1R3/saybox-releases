@@ -1,8 +1,8 @@
 {
- "version": "2026.11.11.0903",
+ "version": "2026.11.11.1129",
  "url": "https://github.com/V4MPP1R3/saybox-releases/releases/latest/download/Saybox-Setup.exe",
- "sha256": "84c5f9a24017610e919d2db5e3ff8904b8691c8c87139b900912b45fe49f70b7",
- "size": 77082997,
- "notes": "- Saybox opened with Chatbox style already on Pirate\n- The chatbox kept turning to Pirate mode\n- Shorter, and like the rest of the window\n- The Voicemeeter setups looked confusing\n- Closing the Voicemeeter Saybox opened\n- General > Voicemeeter > Set up for VRChat\n- Switch VRChat's mic to Voicemeeter when Voicemeeter needs it\n- Owner's requests\n- The music ducked on sounds, not voices",
- "sig": "ThXo9epVCSZplZYSnB7MQ0aFHaWIDFcjtbTxl_3fTwfEgFfTZGQ-8-jbWifR9pny87YGNmYBa8zbuKOYT4NOBw"
+ "sha256": "f202e41c014621d1103cb4c6898243e471c34220cbb30489873c56e6c70e3c9c",
+ "size": 77155064,
+ "notes": "- Saying a chatbox style (\"Ruby, pirate mode\") now keeps it next time too\n- Fewer made-up \"Mm-hmm\"s from Parakeet\n- No more doubled (laughing) tags\n- AI answers start showing sooner: the first sentence goes up while the rest is written\n- Clearer warning when two Saybox windows are open at once\n- Saybox now checks its own files when it starts, and says so if any were changed or damaged",
+ "sig": "dFPxG1g2ilu926IA8yh4Wlx9bSjhTrVXVOaFf6jF-spvYG5X6tcdPnyn-LJR1HUjIGh2Xb1XN2_Dhx9HLNJpCA"
 }
