@@ -1,8 +1,8 @@
 {
- "version": "2026.11.10.1552",
+ "version": "2026.11.10.1617",
  "url": "https://github.com/V4MPP1R3/saybox-releases/releases/latest/download/Saybox-Setup.exe",
- "sha256": "7f2e70174d27d8a8bc47a6a8b70e5a365537687e0c6d5e4a04df496223567b46",
- "size": 76518143,
- "notes": "New SteamVR dashboard panel (status, chatbox, Pause/Undo/Clear/Stop). Close to tray option (Mic & speech). Smaller download. Mic gate recovers after a noisy start, fewer ghost words from breaths. \"Stop\" now pauses the music. A misheard AI name still works before a command. Warns if your mic sends only silence. Settings tidied, and it says CPU.",
- "sig": "WaGHU1TsQ9TMMaSDnVX7t5Jy8CFcP5WaBglPEa06fcUMvY8wgaXpnKkM415BNwuQCK0bitvU7ghoTW6M67KiAw"
+ "sha256": "25d988e8066575f7a053905c042b1f2b01a4fc0b1fcdda39f90a1772ad3448af",
+ "size": 76623242,
+ "notes": "- Tools > Version gets a 'What's new...' button that shows the version you're running's w...\n- The build's last warning, 'Hidden import tzdata not found': Python's time zones need th...",
+ "sig": "mkB1-Um7nJCSoMdCQS9lamK9HlOMAWEpAqp-cHONu0l1-bSdyyJaCfeVuBlKupTUZflNrHcC52_ve20zU1hSCA"
 }
