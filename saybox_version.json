@@ -1,7 +1,8 @@
 {
- "version": "2026.11.10.1629",
+ "version": "2026.11.10.1901",
  "url": "https://github.com/V4MPP1R3/saybox-releases/releases/latest/download/Saybox-Setup.exe",
- "sha256": "29b28e557bf0dec51a4f45c65d73c2c9384713765ec3bcb148cc4215bfe1d86c",
- "size": 76622703,
- "sig": "3d2j-wPhtt6BSWl_Ttw9MewfJvL6TgVMZEUH7Zb4n_tDaiNVotMXG8t8XdWcOMIO9bn4tpY3YIAn9NAwUOotBA"
+ "sha256": "94e6bccdefa29d71d5b48b99b9d9cc92e5066a8203f5509bd5c8f48eafd97e23",
+ "size": 76696246,
+ "notes": "- Tools > Version > Check for updates looks on GitHub right away, so a friend doesn't have to close Saybox and open it...\n- What's new: a release's date is shown as the day on this PC\n- Tools > Version > What's new now has the last few versions' notes below this one's\n- \"play <song> from my <playlist>\" starts that playlist of yours\n- Better Spotify commands\n- A Home note can be clicked away",
+ "sig": "j_O7Y5GXtINb0ctz9f2eEciMgtUbRF03uj5aHI763amZJCol0zpCeNHuu2hY50PzX4oetaf3cpqyUPuYGHGuBg"
 }
