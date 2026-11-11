@@ -1,8 +1,7 @@
 {
- "version": "2026.11.10.1617",
+ "version": "2026.11.10.1629",
  "url": "https://github.com/V4MPP1R3/saybox-releases/releases/latest/download/Saybox-Setup.exe",
- "sha256": "25d988e8066575f7a053905c042b1f2b01a4fc0b1fcdda39f90a1772ad3448af",
- "size": 76623242,
- "notes": "- Tools > Version gets a 'What's new...' button that shows the version you're running's w...\n- The build's last warning, 'Hidden import tzdata not found': Python's time zones need th...",
- "sig": "mkB1-Um7nJCSoMdCQS9lamK9HlOMAWEpAqp-cHONu0l1-bSdyyJaCfeVuBlKupTUZflNrHcC52_ve20zU1hSCA"
+ "sha256": "29b28e557bf0dec51a4f45c65d73c2c9384713765ec3bcb148cc4215bfe1d86c",
+ "size": 76622703,
+ "sig": "3d2j-wPhtt6BSWl_Ttw9MewfJvL6TgVMZEUH7Zb4n_tDaiNVotMXG8t8XdWcOMIO9bn4tpY3YIAn9NAwUOotBA"
 }
