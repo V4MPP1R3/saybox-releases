@@ -1,8 +1,8 @@
 {
- "version": "2026.11.11.1629",
+ "version": "2026.11.11.1725",
  "url": "https://github.com/V4MPP1R3/saybox-releases/releases/latest/download/Saybox-Setup.exe",
- "sha256": "ae2f6ca0708760446bd37af75216eb6b2b8cd3c3273663b485a93561830b440a",
- "size": 77164654,
- "notes": "- Set up AI no longer gets stuck on 'Installing Ollama'",
- "sig": "4CWuftM0ASYdRpL63czubVi-XM2Hi8vhqWbf557reaNF12O4V99n7oP8a3NGYKsSwWrr854UMwmkyOiN2ieUAA"
+ "sha256": "a253224162142ebe77de0b57ac44a16350ae082ae84eda57c78c9b8abacd4479",
+ "size": 77256395,
+ "notes": "- While the AI is still loading it says so, instead of 'Sorry, I couldn't answer that'",
+ "sig": "9K1d25ninaq2HOoQBLo8Wr9CQ564Y6cxpFoC_DRcOwtUEmqTk5-G7FC9bRBC8Bn1vTwPqpSPUtHEvROCEWybAg"
 }
