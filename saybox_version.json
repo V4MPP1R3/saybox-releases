@@ -1,8 +1,8 @@
 {
- "version": "2026.11.11.1725",
+ "version": "2026.11.11.2230",
  "url": "https://github.com/V4MPP1R3/saybox-releases/releases/latest/download/Saybox-Setup.exe",
- "sha256": "a253224162142ebe77de0b57ac44a16350ae082ae84eda57c78c9b8abacd4479",
- "size": 77256395,
- "notes": "- While the AI is still loading it says so, instead of 'Sorry, I couldn't answer that'",
- "sig": "9K1d25ninaq2HOoQBLo8Wr9CQ564Y6cxpFoC_DRcOwtUEmqTk5-G7FC9bRBC8Bn1vTwPqpSPUtHEvROCEWybAg"
+ "sha256": "818c51b93a5b0430848c685e40d7eb0d8cb1f9a14efa4fb1c56aaed67937d7b7",
+ "size": 77524132,
+ "notes": "- Outfits: save your VRChat avatar's toggles under a name and put them back with one press (the new Avatars page) or by saying \"outfit <name>\"\n- Switch VRChat avatars from Saybox (Tools > Your avatars) or by saying \"avatar <name>\"\n- Optional VRChat sign-in (Avatars page) to list your uploaded and favourite avatars; your password is never saved",
+ "sig": "K7iraOpZUBcQgvHss73nEdTHMyvbQW2EL-xH5syuhjqtMEK5TimWF_yjfMLYg3EDGVvfkljNF-s4mz9Gj1noBA"
 }
