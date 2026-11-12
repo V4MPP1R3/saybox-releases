@@ -1,8 +1,8 @@
 {
- "version": "2026.11.12.1331",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/latest/download/Saybox-Setup.exe",
- "sha256": "e347248ff5a0716428b9f719966309e40361ea49a94a5d461d769645ab584fcb",
- "size": 77690443,
- "notes": "- Remote link: Saybox answers each command on the page, shows when it's connected, and 'remote on / off' by voice\n- Remote link: send 'help' for categories, then 'outfits', 'music', 'avatar' or 'chatbox' for tap buttons\n- New setting \"Your name\": the AI knows it's you and calls you by name\n- \"What you said\" shows which messages came from your Remote link",
- "sig": "fu-qK3EBVBlvBlGAYI6r3UOHyDb8PW-_-BSGLzGb58VMJi8UIa6BmYWQJUjsf2jUllMkadMrlf5dgAxnjcJoDQ"
+ "version": "2026.11.12.1353",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.12.1353/Saybox-Setup.exe",
+ "sha256": "8ba052ce1a3386fa902cb43e96eecc5041496fe2347ac881bc2758d9070e46c4",
+ "size": 77699310,
+ "notes": "- Update no longer fails with 'isn't the right file' right after a new version comes out\n- Update always offers the newest version, even if Saybox was open when it came out",
+ "sig": "1UhiWqQLAaV0BHHKHDt7SEWGWntDRxsGwdnGDvNhA2YCWRradcRu4pxC5oj7zlbJRKJ8gjiA7q91kc_S9pJfDw"
 }
