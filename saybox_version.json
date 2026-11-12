@@ -1,8 +1,8 @@
 {
- "version": "2026.11.11.1533",
+ "version": "2026.11.11.1629",
  "url": "https://github.com/V4MPP1R3/saybox-releases/releases/latest/download/Saybox-Setup.exe",
- "sha256": "a88ab0b4c2016c6852a4add592cc1a6e93f5abe8c33592218dd066b1696d75df",
- "size": 77166281,
- "notes": "- Saying 'play Spotify' opens Spotify if it's closed\n- Speech cleanup no longer leaves a stray comma where you said um or uh\n- Long nonstop talking is split between words, not in the middle of one\n- Music commands: you can spell a name out letter by letter ('play R I D D I M')",
- "sig": "ZIzLVFKLTK36RMoF_FTcKIDPlZ7KWuBr3-CBFEbdhHFvvVv-E_cICUDXPuAZRuGb2UrTk4CsPT4h-N_lhD4XBg"
+ "sha256": "ae2f6ca0708760446bd37af75216eb6b2b8cd3c3273663b485a93561830b440a",
+ "size": 77164654,
+ "notes": "- Set up AI no longer gets stuck on 'Installing Ollama'",
+ "sig": "4CWuftM0ASYdRpL63czubVi-XM2Hi8vhqWbf557reaNF12O4V99n7oP8a3NGYKsSwWrr854UMwmkyOiN2ieUAA"
 }
