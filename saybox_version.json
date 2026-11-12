@@ -1,8 +1,8 @@
 {
- "version": "2026.11.11.2344",
+ "version": "2026.11.12.1216",
  "url": "https://github.com/V4MPP1R3/saybox-releases/releases/latest/download/Saybox-Setup.exe",
- "sha256": "025f166a55c1eee3f61ce67c147a3dd484324f56fdb5b281bb331caf1e2c5dbe",
- "size": 77561390,
- "notes": "- Remote link (Settings, off by default): send commands or chatbox messages from your phone through a secret link",
- "sig": "vwfRXRkZ8VDjBRPJ4jsKh21bidPNXj_FYCMcMtDiUPvh0QuuFFOecYslviggSDWRGn_SHD-7udjXHBEZyHEmAw"
+ "sha256": "40ab59893121475410f0b0373c3037f4343bfdbb57de4172bc6d2d8378201310",
+ "size": 77620803,
+ "notes": "- Remote link: Saybox answers each command on the page, shows when it's connected, and 'remote on / off' by voice\n- Remote link: send 'help' for categories, then 'outfits', 'music', 'avatar' or 'chatbox' for tap buttons\n- New setting \"Your name\": the AI knows it's you and calls you by name\n- \"What you said\" shows which messages came from your Remote link",
+ "sig": "TYRYqmUntNH4YOLKRiKMGtQc6JerIthCZ3DBh-7YShDOcGoQd_RNA_Erjr-VD_aCAOwxcfs7XsHwmuVOMx-7Bg"
 }
