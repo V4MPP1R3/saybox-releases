@@ -1,8 +1,8 @@
 {
- "version": "2026.11.12.1743",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.12.1743/Saybox-Setup.exe",
- "sha256": "bced4045a4528d6432037c7a19d0d8ff1d7768f94388def7cdc93e972df3cf86",
- "size": 77039044,
- "notes": "- Going back to a page shows it up to date at once (what you're wearing, if friends' Saybox is on)\n- Wearing now changes the moment you swap avatars, and Only while muted / Sleep while AFK work alongside face tracking and other OSC apps\n- Only while muted knows right away if you're muted: no need to mute and unmute first\n- Your words reach the chatbox about a tenth of a second sooner",
- "sig": "jzDZqwVxbHaTstPs6b1KgdXhovXiWl-Id4q447sy1IXvMWhOwEb6T1CpUrj9h8h6NN5-PLM7xVex9_QKTPjDBA"
+ "version": "2026.11.12.1837",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.12.1837/Saybox-Setup.exe",
+ "sha256": "a3e8ebb7d81f718bc09d6c1d8857dde4cd1ad42d630dc8d82fc2663453b92ee5",
+ "size": 77111005,
+ "notes": "- Outfits go on almost instantly: only the toggles that change are sent\n- No false 'no internet' warning when only the weather service is down\n- With Close to tray on, Saybox opened by SteamVR waits in the tray instead of popping up",
+ "sig": "8X98HfsG302JWMU2C0ibofYb4chJfFfYqOMJFecauaT2MJCBRExEmHmJGhv1ANR_Vc1otowQ7Rfg_YPqZ0XgDQ"
 }
