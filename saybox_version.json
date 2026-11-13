@@ -1,8 +1,8 @@
 {
- "version": "2026.11.12.1433",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.12.1433/Saybox-Setup.exe",
- "sha256": "25e13d0996f271793337a6927dbe8587fda0ec976a0c4bda70cc584bf31c59eb",
- "size": 77692556,
- "notes": "- Outfits save all your clothes toggles, and the Avatars page shows the avatar you're wearing more reliably",
- "sig": "QxOdIY-DTQ746OKDlehkCCO7x_5PhCpFloaAcKiKMe4SJNJcPUvE35hqCVnwkGRSNFu3Ydxt1P70tylIQHu8BA"
+ "version": "2026.11.12.1743",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.12.1743/Saybox-Setup.exe",
+ "sha256": "bced4045a4528d6432037c7a19d0d8ff1d7768f94388def7cdc93e972df3cf86",
+ "size": 77039044,
+ "notes": "- Going back to a page shows it up to date at once (what you're wearing, if friends' Saybox is on)\n- Wearing now changes the moment you swap avatars, and Only while muted / Sleep while AFK work alongside face tracking and other OSC apps\n- Only while muted knows right away if you're muted: no need to mute and unmute first\n- Your words reach the chatbox about a tenth of a second sooner",
+ "sig": "jzDZqwVxbHaTstPs6b1KgdXhovXiWl-Id4q447sy1IXvMWhOwEb6T1CpUrj9h8h6NN5-PLM7xVex9_QKTPjDBA"
 }
