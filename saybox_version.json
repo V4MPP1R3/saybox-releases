@@ -1,8 +1,8 @@
 {
- "version": "2026.11.12.1837",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.12.1837/Saybox-Setup.exe",
- "sha256": "a3e8ebb7d81f718bc09d6c1d8857dde4cd1ad42d630dc8d82fc2663453b92ee5",
- "size": 77111005,
- "notes": "- Outfits go on almost instantly: only the toggles that change are sent\n- No false 'no internet' warning when only the weather service is down\n- With Close to tray on, Saybox opened by SteamVR waits in the tray instead of popping up",
- "sig": "8X98HfsG302JWMU2C0ibofYb4chJfFfYqOMJFecauaT2MJCBRExEmHmJGhv1ANR_Vc1otowQ7Rfg_YPqZ0XgDQ"
+ "version": "2026.11.12.2004",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.12.2004/Saybox-Setup.exe",
+ "sha256": "909588653a17350ca9a261ba0dc23167fc3fac8eff88f93481dc3ce5f87eb589",
+ "size": 75817268,
+ "notes": "- Updates install by themselves the next time you open Saybox: no installer questions, no password (type it once more at this update)",
+ "sig": "Ni626OvP-dlpp7ZxOZyrUXMIZOB3bU1eICtNXt-dJeI1zVqFYKAemEUkgw1gNxT8Bl6_fAPVvpjbsJG-WxVQDg"
 }
