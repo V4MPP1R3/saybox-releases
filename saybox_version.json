@@ -1,8 +1,7 @@
 {
- "version": "2026.11.12.2004",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.12.2004/Saybox-Setup.exe",
- "sha256": "909588653a17350ca9a261ba0dc23167fc3fac8eff88f93481dc3ce5f87eb589",
- "size": 75817268,
- "notes": "- Updates install by themselves the next time you open Saybox: no installer questions, no password (type it once more at this update)",
- "sig": "Ni626OvP-dlpp7ZxOZyrUXMIZOB3bU1eICtNXt-dJeI1zVqFYKAemEUkgw1gNxT8Bl6_fAPVvpjbsJG-WxVQDg"
+ "version": "2026.11.12.2020",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.12.2020/Saybox-Setup.exe",
+ "sha256": "87964daf755a8ac8fde151da0d75709d3f0fbf67c00ea3936b157dd8ecdf66a7",
+ "size": 75821790,
+ "sig": "C3pJZY37ecwnIvrDpicT3AnEImoisOHzduQMrkdoivXmI5IOCeG_7USr3_MoOxPLrii48h4JNtlVrRLCqW56AQ"
 }
