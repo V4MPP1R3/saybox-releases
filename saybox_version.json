@@ -1,7 +1,8 @@
 {
- "version": "2026.11.12.2259",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.12.2259/Saybox-Setup.exe",
- "sha256": "f944aa2ae09450d563b770840f21054235cb6200186e885df1056fb74cfcb8f0",
- "size": 75918561,
- "sig": "nP77Le11ixSmWWZmSJP9rUDyKPqtFRTnOBxLZdq68uU-b0iBW0Qy1CkrVog4zvdzqLUMqJmBIxkc3YKAkLnWDQ"
+ "version": "2026.11.13.1008",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.13.1008/Saybox-Setup.exe",
+ "sha256": "f28b6385500c154b98df045ef14ec35987297773c9e969126a3b00b73888f22e",
+ "size": 75934563,
+ "notes": "- Updates are always automatic: nothing to type or turn on, new versions go in by themselves",
+ "sig": "2HZaPjRKtjrDK-QM0ojy1aVEitMhvYkvf6E-LOoaVGruIdoJn181x7NLC0rbOuxQ3I98rycEFZdMjCMb88wlDA"
 }
