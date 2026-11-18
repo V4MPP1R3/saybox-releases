@@ -1,8 +1,8 @@
 {
- "version": "2026.11.15.1751",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.15.1751/Saybox-Setup.exe",
- "sha256": "6b49116ebd0b134bc4c94fb3c7e33e00c1c1e1a5d530bda4952f20fef0538d13",
- "size": 75950679,
- "notes": "- Updates keep working even if the Setup password changes",
- "sig": "E7f15tXZTNVQSRmg3DtzCnM1RSSfw5p1ip4MTmStdwCqmKSLiN8qlkbdzyL2J9U_5IXL5udzG0WLFDENPsZVCg"
+ "version": "2026.11.17.1738",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.17.1738/Saybox-Setup.exe",
+ "sha256": "e081de72e883fd3877c7ac0862dae438aa9ed130fb1388f83a2427fb110b4f86",
+ "size": 75959408,
+ "notes": "- Fewer wrong sound tags like (crying) after normal talking\n- Normal words like 'Close' and 'Nice' at the start of a sentence no longer turn into your custom names\n- 'VRChat isn't listening to Voicemeeter' no longer shows by mistake in desktop mode\n- 'Next avatar' and 'avatar previous' work\n- 'Play my liked songs' is understood more often\n- The AI no longer answers odd questions with the date",
+ "sig": "UUMzlj7gZeKUtGhv0Dbfh2ag5a2aT5Ndy1MuQi2Si2YXLwjIWkn0VSjD5_XYxZ3xyEY6KgamO6d98RqNXWsqAg"
 }
