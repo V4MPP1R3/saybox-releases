@@ -1,8 +1,8 @@
 {
- "version": "2026.11.17.1738",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.17.1738/Saybox-Setup.exe",
- "sha256": "e081de72e883fd3877c7ac0862dae438aa9ed130fb1388f83a2427fb110b4f86",
- "size": 75959408,
- "notes": "- Fewer wrong sound tags like (crying) after normal talking\n- Normal words like 'Close' and 'Nice' at the start of a sentence no longer turn into your custom names\n- 'VRChat isn't listening to Voicemeeter' no longer shows by mistake in desktop mode\n- 'Next avatar' and 'avatar previous' work\n- 'Play my liked songs' is understood more often\n- The AI no longer answers odd questions with the date",
- "sig": "UUMzlj7gZeKUtGhv0Dbfh2ag5a2aT5Ndy1MuQi2Si2YXLwjIWkn0VSjD5_XYxZ3xyEY6KgamO6d98RqNXWsqAg"
+ "version": "2026.11.17.1921",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.17.1921/Saybox-Setup.exe",
+ "sha256": "949fe9347b7efbdd3f372f934991c047f940f84e0585472279d02b52394bb7fe",
+ "size": 75975657,
+ "notes": "- When your licence time or name changes, Saybox picks it up by itself: no new key to paste",
+ "sig": "G9tO7WdrBJvY2D_PjdBvGwf9cSwXczXUPZ288XXmC5ycnEUOfpSy4X1-4vY0ys8VQvMTVqnzME7YZXhFSO0RDQ"
 }
