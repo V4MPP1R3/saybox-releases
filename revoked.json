@@ -1,8 +1,9 @@
 {
  "v": 1,
- "updated": "2026-11-11T00:40:15Z",
+ "updated": "2026-11-18T01:18:39Z",
  "revoked": [
+  "57d55fd4",
   "7af6fef0"
  ],
- "sig": "wO9ajMcNpZXDhjpQoiHvGl9KdlvqJD9GwfJ3GpC3b_sJCJHTt7xkWfW2jdJIeFsziZB9m3wm9xa5V-G7qXEPDA"
+ "sig": "wmGdpu-dYgL-VN1FZHXchJT56Xg8Qe0-DzsnDnrH9MiBmNgnZnb4S_gAXR9gDZMkkGQnxfDV9ID6TDeJAWiSCA"
 }
