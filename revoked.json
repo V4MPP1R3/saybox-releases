@@ -1,9 +1,19 @@
 {
  "v": 1,
- "updated": "2026-11-18T01:18:39Z",
+ "updated": "2026-11-18T03:28:43Z",
  "revoked": [
   "57d55fd4",
   "7af6fef0"
  ],
- "sig": "wmGdpu-dYgL-VN1FZHXchJT56Xg8Qe0-DzsnDnrH9MiBmNgnZnb4S_gAXR9gDZMkkGQnxfDV9ID6TDeJAWiSCA"
+ "sig": "nqjXUT5c57pr0YESbnRJb8-zYVA2-VGyxlI8_zTOCWOiYqr9Fs6qPCLm7Jc_JmoODa4LRuYWA-6hZPQParXZAA",
+ "ends": {
+  "5662e5cc": "2026-11-16T23:41Z",
+  "cac5719c": "2026-11-16T00:41Z",
+  "e13d6add": "2026-11-21T01:18Z"
+ },
+ "ends_sig": "u1pjs82bu2sOBPzmBIySbEEuwWoLzV_gmh7OlH4chNvhiA8HOsaFPgeZHv9eV43EkrDe3pLqQuN912Zz0Q3LAg",
+ "names": {
+  "e13d6add": "fdvkB7-gotPfvAXE"
+ },
+ "names_sig": "YLkrzlTG220jUEa_11f51VOvwi9lwzJD0D_UHhZJFz74Y5en14ZbBcmBjTodztdOWzl2o2Umj2LGsTTrFWL1Bg"
 }
