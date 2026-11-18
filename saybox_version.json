@@ -1,8 +1,8 @@
 {
- "version": "2026.11.17.1921",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.17.1921/Saybox-Setup.exe",
- "sha256": "949fe9347b7efbdd3f372f934991c047f940f84e0585472279d02b52394bb7fe",
- "size": 75975657,
- "notes": "- When your licence time or name changes, Saybox picks it up by itself: no new key to paste",
- "sig": "G9tO7WdrBJvY2D_PjdBvGwf9cSwXczXUPZ288XXmC5ycnEUOfpSy4X1-4vY0ys8VQvMTVqnzME7YZXhFSO0RDQ"
+ "version": "2026.11.18.0352",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.18.0352/Saybox-Setup.exe",
+ "sha256": "4f7afde49c882b5a770a937f538b65da1d64f344d508576ed419ef445e01ffcd",
+ "size": 76093415,
+ "notes": "- Breathing no longer shows as (snoring), (snorting) or (sneezing)\n- New Chatbox sound setting: VRChat's pop sound for each new message\n- Sentences that trail off end with ... in the chatbox\n- Decimals as numbers: 'point two' shows as .2\n- Fewer made-up words from breathing, even with sound tags off\n- Custom words work again, also when said on their own\n- Faster first AI answer after a quiet while",
+ "sig": "dULxxuRm653uJ-5UxOqO-gH3ih-z7zaeoIwD2hKsy04Axg7WRjn-tsyYRL4_v5L20ExEhLHTI0IdWBXpfGqMAQ"
 }
