@@ -1,8 +1,8 @@
 {
- "version": "2026.11.18.0831",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.18.0831/Saybox-Setup.exe",
- "sha256": "fdab0a38a12cd8cecc4e713aa7062cc3df2e9fc938cde26b8e9fe1b8eb0a4d47",
- "size": 76224613,
- "notes": "- Switch to avatars in favourites 2-6 without VRC+ (sign in to VRChat on the Accounts page)\n- Saybox says when an avatar switch worked, and how long it took\n- Say 'take me to <world>' or 'random world' to get an invite there\n- Say 'previous instance' to go back to the instance you were in before\n- Say 'where is my friend <name>' (offline friends too: when they were last on) or 'join <friend>'",
- "sig": "FqifRCIvaig0lgNZsWou0wYbz7WWjlbpuI5VnC8TQVI6MUG-vlRbH2VivepvPaOEWKD9_ec2dvwWmIWDUXsBBw"
+ "version": "2026.11.19.0318",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.19.0318/Saybox-Setup.exe",
+ "sha256": "51f579a5d126a1d4f21a013ece8a124177b3ee4a423c52ac505bf4eccf279d74",
+ "size": 76603337,
+ "notes": "- Parakeet is now the automatic speech model, and the light AI on the CPU is the default: more room for VRChat\n- Quiet rooms: the automatic mic cut-off can go lower, and the arrows move in finer steps\n- Downloads show their real progress, speed and time left, and installing Ollama shows it's still going\n- New voice command: \"reset avatar\" loads your avatar again, like VRChat's Reset Avatar",
+ "sig": "6Qd6bMC-Tz7RD1ZIWb0VMhGmn9yMSAnPbIirIKr1n4qhpukiQjdR--xPv-JG2MzIsybXKfUBabj-autwFXFZBw"
 }
