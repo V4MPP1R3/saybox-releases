@@ -1,8 +1,8 @@
 {
- "version": "2026.11.19.0318",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.19.0318/Saybox-Setup.exe",
- "sha256": "51f579a5d126a1d4f21a013ece8a124177b3ee4a423c52ac505bf4eccf279d74",
- "size": 76603337,
- "notes": "- Parakeet is now the automatic speech model, and the light AI on the CPU is the default: more room for VRChat\n- Quiet rooms: the automatic mic cut-off can go lower, and the arrows move in finer steps\n- Downloads show their real progress, speed and time left, and installing Ollama shows it's still going\n- New voice command: \"reset avatar\" loads your avatar again, like VRChat's Reset Avatar",
- "sig": "6Qd6bMC-Tz7RD1ZIWb0VMhGmn9yMSAnPbIirIKr1n4qhpukiQjdR--xPv-JG2MzIsybXKfUBabj-autwFXFZBw"
+ "version": "2026.11.19.0354",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.19.0354/Saybox-Setup.exe",
+ "sha256": "69b8011a42abf7f8a0bb40b73f8f36d9d70d4cc2d09c7bebc6846148cfcaea46",
+ "size": 76604504,
+ "notes": "- Updating no longer breaks Saybox if it gets opened while the update installs",
+ "sig": "6e7QHCJ2fUS3LgLwX1ZB_PsNxDL1D1PD68uUe2ieHVez-cbXRrPwWDSo-PDm1tgfm-rEO3PoI8ulGySXqSkACA"
 }
