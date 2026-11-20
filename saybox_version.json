@@ -1,8 +1,8 @@
 {
- "version": "2026.11.19.0354",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.19.0354/Saybox-Setup.exe",
- "sha256": "69b8011a42abf7f8a0bb40b73f8f36d9d70d4cc2d09c7bebc6846148cfcaea46",
- "size": 76604504,
- "notes": "- Updating no longer breaks Saybox if it gets opened while the update installs",
- "sig": "6e7QHCJ2fUS3LgLwX1ZB_PsNxDL1D1PD68uUe2ieHVez-cbXRrPwWDSo-PDm1tgfm-rEO3PoI8ulGySXqSkACA"
+ "version": "2026.11.20.1131",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.20.1131/Saybox-Setup.exe",
+ "sha256": "ec86d2e96ad2a7c257006f979daab2716be76607fcd715d92edb2a1d2a0de11e",
+ "size": 85750611,
+ "notes": "- With the voice on speakers, you can keep talking while it speaks\n- New Rumble filter switch in Advanced: cuts desk bumps and hum from the mic\n- Chatbox sound can pop only while you're muted\n- Settings code in Help: copy your setup and send it to a friend\n- Captions of others: see what other players say, on your screen and in VR (Voice page)",
+ "sig": "bsJeABE8GlIjaxkvKQjtPOhOTpaihZpSQV4afVEt7jdYkHnzIgPskX9JH7zBHN3VQdSLHTNYnu2n57yWiZwlCA"
 }
