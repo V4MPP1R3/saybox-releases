@@ -1,8 +1,8 @@
 {
- "version": "2026.11.20.1855",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.20.1855/Saybox-Setup.exe",
- "sha256": "8cd75236fafcfe296146c67a3078964dead7ed4231ce11305f6dfdc6320df7f2",
- "size": 85778058,
- "notes": "- The running screen has the new look too, with a live mic wave\n- The SteamVR panel has the new sci-fi look too",
- "sig": "HhuipAhGe-b4pJae66WzASSSzWKMA3-ko1qgKptQzL_G9sgQfBCapr_NK1e7Q2OeoARVgMNWuXQRUYKtJc1JCQ"
+ "version": "2026.11.20.2041",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.20.2041/Saybox-Setup.exe",
+ "sha256": "5dcebb974dd735ae564c97600e4aac84f3edfffdba5bc9353ce68c8d10b2625d",
+ "size": 85868253,
+ "notes": "- A cool start-up screen while Saybox opens\n- The first Start is quicker: Saybox gets the local AI and speech files ready while it opens",
+ "sig": "fRU7AIo2UrpIyq0gBLU16_mXHH3wukhTZaAgo_AgcjI0tTeOsbhuIrmiOM9TidhIDBQ7dRLhXqhKEfR7kZb7DQ"
 }
