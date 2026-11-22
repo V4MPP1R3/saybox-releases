@@ -1,8 +1,8 @@
 {
- "version": "2026.11.22.0003",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.22.0003/Saybox-Setup.exe",
- "sha256": "ea186f3f0dbd78b7f99b9da10d045fe0bfab7e66090f597ca966eee845b56427",
- "size": 86137676,
- "notes": "- No white flash when you open Saybox from the tray, and it rests properly while it's there\n- Commands work more often when \"Ruby\" is misheard\n- \"Clear\" also stops answers that are still on the way\n- New: \"shut up\", \"voice off\" / \"voice on\" and \"replay\"\n- Height is easier: just say \"6 foot\", or \"height\" then the size\n- \"Outfits\", \"joins \u2026\" and \"invites \u2026\" now work",
- "sig": "gOEbYDZwKP6eWNpPgrbKIp9MApNpdtFgISMJ63khLMRTIVZdJm4OAr1W8Fh_9rdjC3AC4jZqC-Z6I-FCIHqHBA"
+ "version": "2026.11.22.0151",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.22.0151/Saybox-Setup.exe",
+ "sha256": "7ea120426b8fa288574dcffce3aafae858ddcf2013695b8ff7381a40a2077f3f",
+ "size": 86140037,
+ "notes": "- Remote link: New link works straight away, and the old link's page says it was replaced\n- Ask \"is the remote link on?\" and Saybox tells you",
+ "sig": "tjpjDxuPoZ8irmgxB7-8mis2ayjVDFVcOWxu_9OOH75sJBqEiq5snDZ9BfPh5A_QktahfKa7MLGlnQ_DBQsyBw"
 }
