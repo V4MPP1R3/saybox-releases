@@ -1,8 +1,8 @@
 {
- "version": "2026.11.20.2135",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.20.2135/Saybox-Setup.exe",
- "sha256": "b15dfdea650737ce00b27565c958b9da3e13e154bc94200f957fbde8fb599b8b",
- "size": 85936723,
- "notes": "- Smoother window: pages switch instantly and the mic wave glides\n- Commands are in four tabs, and the running screen has a live light and a chatbox fill bar",
- "sig": "QcTyIfk5aBIuB3RDxIeGI-N__sH_6v3RiWVLeqBpeZOKjDJKnPn2OcomAp_3C6a7U4knDVFgoEYWQnCDIapDBw"
+ "version": "2026.11.22.0003",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.22.0003/Saybox-Setup.exe",
+ "sha256": "ea186f3f0dbd78b7f99b9da10d045fe0bfab7e66090f597ca966eee845b56427",
+ "size": 86137676,
+ "notes": "- No white flash when you open Saybox from the tray, and it rests properly while it's there\n- Commands work more often when \"Ruby\" is misheard\n- \"Clear\" also stops answers that are still on the way\n- New: \"shut up\", \"voice off\" / \"voice on\" and \"replay\"\n- Height is easier: just say \"6 foot\", or \"height\" then the size\n- \"Outfits\", \"joins \u2026\" and \"invites \u2026\" now work",
+ "sig": "gOEbYDZwKP6eWNpPgrbKIp9MApNpdtFgISMJ63khLMRTIVZdJm4OAr1W8Fh_9rdjC3AC4jZqC-Z6I-FCIHqHBA"
 }
