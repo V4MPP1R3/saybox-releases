@@ -1,8 +1,8 @@
 {
- "version": "2026.11.22.0151",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.22.0151/Saybox-Setup.exe",
- "sha256": "7ea120426b8fa288574dcffce3aafae858ddcf2013695b8ff7381a40a2077f3f",
- "size": 86140037,
- "notes": "- Remote link: New link works straight away, and the old link's page says it was replaced\n- Ask \"is the remote link on?\" and Saybox tells you",
- "sig": "tjpjDxuPoZ8irmgxB7-8mis2ayjVDFVcOWxu_9OOH75sJBqEiq5snDZ9BfPh5A_QktahfKa7MLGlnQ_DBQsyBw"
+ "version": "2026.11.22.2105",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.22.2105/Saybox-Setup.exe",
+ "sha256": "1b4cddbccc2cd99bfa60c71827aaf8bbfc53ee57eaf277ff630c98a624482d9b",
+ "size": 86203482,
+ "notes": "- Web search fails less often (Google added as a backup)\n- Optional: add a free Tavily key in Settings > Accounts so web search almost never fails\n- The chatbox says \"Looking it up...\" while Ruby searches the web",
+ "sig": "PpcGWwjR_dKXHI8hAtpklIPAyCtKGoxeZP-RESGNm1fRgOg7n1Dw0vwTuoRoKQBVXoSG0q3WHXIHxfFKzwfMAA"
 }
