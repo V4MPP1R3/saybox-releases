@@ -1,10 +1,7 @@
 {
- "version": "2026.11.24.2158",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.24.2158/Saybox-Setup.exe",
- "sha256": "61de97719d73c24823605ebd564f1be101c2f126677d862b207e1854235c9494",
- "size": 86883490,
- "notes": "- For streamers: sign in to Twitch, then say \"tell chat ...\", \"shout out ...\", \"title ...\", \"category ...\"\n- Captions on stream: a caption overlay for OBS, and a switch that sends what you say to Twitch chat\n- Twitch moderation by voice: \"timeout ...\", \"ban ...\", \"unban ...\", and \"approve\" / \"deny\" for messages AutoMod holds",
- "sig": "aG5i3oVl1QNP9ScEJw42W4KYroDOEIyI5Gd5p9zzoaeEbGXBRA5aFx07KZrYpj8PixtAXYAtsI_vm7O0qc2iBA",
- "notes_more": "- Friends' Saybox links show On more reliably (they used up ntfy's free daily limit)\n- The Remote light turns red and says why when your remote link can't connect\n- Translate others: what other players say shows in English on your screen and SteamVR panel (Voice > Other players)\n- \"Remind me at 9 pm to ...\" works, and timers and reminders now survive closing Saybox\n- The loading screen can be dragged around, and it smoothly grows into the Saybox window\n- \"Ruby, pin ...\" keeps a line at the top of your chatbox (\"unpin\" takes it away)\n- Quick phrases: \"Ruby, save phrase brb as be right back\", then just say \"Ruby, brb\"\n- Streamers: \"Ruby, clip that\" makes a Twitch clip (sign in to Twitch again once)\n- If the local AI crashes, Saybox restarts it and still answers your question\n- Home shows your last session: how long, messages, commands and any problems\n- SteamVR panel: scroll back through your last 30 lines with the thumbstick or the red bar\n- Soft sci-fi sounds as you click around, Start and Stop (turn off: Settings > Window sounds)\n- What's new now lists every change",
- "sig_more": "JV7Q9sCs2QiCrdx4inoeoNGqMEdWE93LExz9j5aRVyTxqSnkX9I_o5W_J_yP8xvnpaQitdCYQcuQwYkOF765Bw"
+ "version": "2026.11.24.2233",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.24.2233/Saybox-Setup.exe",
+ "sha256": "152b4c9ce7a49e61ac0f25e25925c1f2d4b284a54eaf54ef28d7f741d2717517",
+ "size": 86885380,
+ "sig": "VQVnn-LuhVa9jmuXnsgMdvNRULhV0l2ri3z02D25dbsHKo1tDFE9s48IhSippEN7hjPK2-BGMNBet_GvKXFsBA"
 }
