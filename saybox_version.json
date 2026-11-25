@@ -1,8 +1,10 @@
 {
- "version": "2026.11.25.0230",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.25.0230/Saybox-Setup.exe",
- "sha256": "738ba57cf23dbdea5e6798efc444f05c2eb544069ba0e46498141b467ffcc483",
- "size": 86883293,
- "notes": "- Faster start: the licence check is now almost instant",
- "sig": "18685xb1xHZxakE-_q7POGR6Z8F3MOYMQ0rFp_XnJCPC40wnnPajnesf58xBGfVauRRXZtdZkvdJIJiZMWy5CQ"
+ "version": "2026.11.25.0552",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.25.0552/Saybox-Setup.exe",
+ "sha256": "273b418cdd6ccd8548f2c3ce3719473ed00b3e77451fc3315bd02ef84ebfe89d",
+ "size": 81708230,
+ "notes": "- Soundboard: all sounds play at the same loudness, with a volume setting\n- Soundboard: optionally hear sounds in your headphones too\n- Soundboard: no first-click delay, no click when stopping\n- Window: Ctrl+1 to 9 switch pages, Esc clears search\n- New Speaker page: Read aloud and the soundboard live together\n- Soundboard buttons show longer names; Advanced settings regrouped",
+ "sig": "lUikWFKIOMs82QGb9heKBmU9KLTZRfg99Oi-BdeVwsneEMrQPWiiu6P7A4iLadMSMaplOa3ZyPTA-UqPW7KhDA",
+ "notes_more": "- Closing Saybox is quicker when it opened Voicemeeter\n- Saying \"play Spotify\" (or \"open Spotify\") opens Spotify if it was closed\n- New Soundboard page with every sound, Stop and Folder\n- Soundboard reaches VRChat even with Read aloud off\n- Fixed: soundboard buttons now play again\n- Soundboard comes with starter sounds\n- Maximizing the window now fills the screen properly",
+ "sig_more": "ae_NZYYLtA8q-cp0lJ9C69FdWByispDplSdm0699LjBJbMwD2a9364tU6pZR2QuDM1HOaqflj1ysHBfbydddBw"
 }
