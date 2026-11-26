@@ -1,11 +1,11 @@
 {
  "v": 1,
- "updated": "2026-11-26T08:44:33Z",
+ "updated": "2026-11-26T08:55:33Z",
  "revoked": [
   "57d55fd4",
   "7af6fef0"
  ],
- "sig": "cFlIefHCnwPOne3eOqYUU5B-stUdx-z7iJV_ciF7ainZTFlsBNrd0ZvyBKXOUxolWe8Zg26DQPYsv76WAGUzDw",
+ "sig": "jMUx4KnpOG9IcpQlGteviLPJcyx-7DUfvp_qoMX_LK2cMh_jswGZ3V95YirJ4LQLRBxdUynnXtNR5AbZBceOCg",
  "ends": {
   "043be8ba": "2026-11-29T08:44Z",
   "5662e5cc": "2026-11-16T23:41Z",
@@ -13,9 +13,9 @@
   "cac5719c": "2026-11-16T00:41Z",
   "e13d6add": "2026-11-29T08:44Z"
  },
- "ends_sig": "atQxptiGGwFQ7NRLujYCn-EO4oS92gypMFEKk17eZnowrBXZYiiTqLm-hT96pmmC3saQkQiPYnlf2KbWptTGBQ",
+ "ends_sig": "yUaj7Tlc3gLj3_auhPiBnIW8eIwDff9_RkvpW-0j5Psw4gb8yR_Km2XD2QcN64ncOYHk3EbNcZGhBpr1s_JuCw",
  "names": {
   "e13d6add": "fdvkB7-gotPfvAXE"
  },
- "names_sig": "kOHW9i8Smtah7wMhoahiBFvlggnMJue1_9u7kmyERqhgXmuBPbTKlBKgJhTGLhiq_Ck2uvyOgbjcACSm8abaAw"
+ "names_sig": "5IgJrOIwx5SXYnxNvvCZ5B7VEUuc4eRGzsIfqZxyexdoVSzp2YmWwSmWqtAaOGsWhHkSgicBHbA4Vn0XIlE3Cg"
 }
