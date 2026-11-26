@@ -1,8 +1,8 @@
 {
- "version": "2026.11.25.1307",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.25.1307/Saybox-Setup.exe",
- "sha256": "4931e5a87ba353346d4ee78e8936efd64617f745cf9d9c965c31f1760ead117f",
- "size": 81754180,
- "notes": "First-time setup now picks models for you, with mic, read aloud, voice and preference screens. Shorter speech and AI lists.",
- "sig": "u-LcckgoEa81N15zO1PbzP251AREPpKcgLpwgISsOXdDOVKcaobmwFvQKp18OppOp4My8Z38VSKcdHnT9tFzAw"
+ "version": "2026.11.26.0051",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.26.0051/Saybox-Setup.exe",
+ "sha256": "512481167c90eaa02f918e723916e709260decce8de8e1d40e498a02e578706f",
+ "size": 81789132,
+ "notes": "- New Japanese voice for Read aloud: Alpha (reads kanji; downloads about 150 MB the first time you pick it)",
+ "sig": "yzSjz-9qoZRXLJWUZxPhxwjJkQx09bWy4b8GvUnIYrJsZz-VIPjuYb7ldyBPfuHGp2cP_LabBomhfbFX1L7uDw"
 }
