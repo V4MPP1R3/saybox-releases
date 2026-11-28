@@ -1,8 +1,8 @@
 {
- "version": "2026.11.27.2230",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.27.2230/Saybox-Setup.exe",
- "sha256": "4e95d9962a813c6f707abcdb1af9b8508a76085f7a8f082d96670440b3cc9fe4",
- "size": 81840191,
- "notes": "- Translations (and translated lyrics) keep working quickly when Google is busy\n- Remote link uses fewer ntfy.sh messages, and you can use your own ntfy server\n- Ollama no longer starts by itself: with only the AI assistant on, it starts when you first ask it something\n- Ollama no longer pops up in Task Manager when nothing needs it, and closes itself after a long idle spell",
- "sig": "tP0IWl-3ZT3jgm0e6FoiGdj-dB6ImwyWjOi-7WJS1oAuiJHl8mTsb-8PXzIQ1InDCQ0NUtguw0yS13SlRNudBA"
+ "version": "2026.11.27.2319",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.27.2319/Saybox-Setup.exe",
+ "sha256": "a6b684090c3f026cbc4dfdcfff28154db5d348e9e4ec111c358b7b7ed1c53a65",
+ "size": 81839703,
+ "notes": "- Saybox sets aside about 1 GB less memory, leaving more for your game\n- Uses less processor while you talk, and the Kokoro voice uses much less memory\n- Faster translation when Google is limiting your connection",
+ "sig": "MDILkBfz4pjh5Hl4lbnTY--J2VKS2lh8Xyp9XEu3T6tuQn90Xd3zb1cFiv62fiCmStP44iYCSApHuMQSlLsnDQ"
 }
