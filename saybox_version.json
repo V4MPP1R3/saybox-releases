@@ -1,8 +1,8 @@
 {
- "version": "2026.11.27.2319",
- "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.27.2319/Saybox-Setup.exe",
- "sha256": "a6b684090c3f026cbc4dfdcfff28154db5d348e9e4ec111c358b7b7ed1c53a65",
- "size": 81839703,
- "notes": "- Saybox sets aside about 1 GB less memory, leaving more for your game\n- Uses less processor while you talk, and the Kokoro voice uses much less memory\n- Faster translation when Google is limiting your connection",
- "sig": "MDILkBfz4pjh5Hl4lbnTY--J2VKS2lh8Xyp9XEu3T6tuQn90Xd3zb1cFiv62fiCmStP44iYCSApHuMQSlLsnDQ"
+ "version": "2026.11.28.0342",
+ "url": "https://github.com/V4MPP1R3/saybox-releases/releases/download/v2026.11.28.0342/Saybox-Setup.exe",
+ "sha256": "706b6254e0396739aaf4a1a736e5030da6c11114feeaa492e71dac0a48789261",
+ "size": 83400147,
+ "notes": "- The offline translator frees its memory when you're not translating\n- 28 more soundboard sounds to start with (cheers, boos, laughs, fanfare, jackpot and more)\n- 25 more meme sounds on the starter soundboard (new installs)",
+ "sig": "xMAN-vshRo_yf3HIkAnXTVpKUOe9KoPGBU77H7NdkIImTk6tLsmV17tX3q1Z-sxENrK7bva61BMonqJQ7As0DA"
 }
